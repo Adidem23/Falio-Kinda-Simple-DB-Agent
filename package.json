@@ -1,0 +1,21 @@
+{
+  "name": "AI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "@types/node": "^22.13.1",
+    "dotenv": "^16.4.7",
+    "mongodb": "^6.13.0",
+    "mongoose": "^8.10.0",
+    "openai": "^4.83.0",
+    "readline-sync": "^1.4.10"
+  }
+}
